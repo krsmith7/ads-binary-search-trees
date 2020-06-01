@@ -1,5 +1,12 @@
 {
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "sourceType": "module",
+  "env": {
+    "es6": true
+  },
   "rules": {
-    "jest/valid-expect": "off",
+    "jest/valid-expect": "off"
   }
 }
